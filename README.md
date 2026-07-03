@@ -2,9 +2,9 @@
   <h1>🛡️ Network Anomaly Detection System</h1>
   <h3><em>Real-Time Network Intrusion Detection using Machine Learning</em></h3>
   <p>
-    <strong>Author:</strong> Rohan<br>
+    <strong>Author:</strong> Rohan Mashere<br>
     B.Tech, Artificial Intelligence and Data Science<br>
-    Dr. D. Y. Patil School of Science &amp; Technology, Tathawade, Pune
+    Dr. D. Y. Patil School Vidyapeeth, Pune
   </p>
   <p>
     <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-808080?style=flat" alt="Platform"/>
   </p>
 </div>
----
  
 ## 📌 Overview
  
@@ -266,7 +265,7 @@ The Streamlit dashboard (`dashboard.py`) auto-refreshes every 5 seconds and disp
     </tr>
   </table>
 </div>
----
+
  
 ## 🛠️ Tech Stack
  
@@ -307,7 +306,7 @@ This project uses the **UNSW-NB15** dataset, developed by the Australian Centre 
  
 This project is intended for academic and research purposes. Feel free to fork and build upon it with attribution.
  
----
+
  
 <div align="center">
   <p>Made with ❤️ by <strong>Rohan</strong></p>
