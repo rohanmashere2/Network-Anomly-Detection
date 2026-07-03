@@ -2,9 +2,9 @@
   <h1>🛡️ Network Anomaly Detection System</h1>
   <h3><em>Real-Time Network Intrusion Detection using Machine Learning</em></h3>
   <p>
-    <strong>Author:</strong> Rohan Mashere<br>
+    <strong>Author:</strong> Rohan<br>
     B.Tech, Artificial Intelligence and Data Science<br>
-    Dr. D. Y. Patil School Vidyapeeth, Pune
+    Dr. D. Y. Patil School of Science &amp; Technology, Tathawade, Pune
   </p>
   <p>
     <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -103,6 +103,9 @@ Network Anomaly Detection/
 │
 ├── live_log.json               # Rolling log of live predictions (last 500)
 ├── live_data.json              # Live traffic snapshot data
+│
+├── assests/
+│   └── screenshots/             # Dashboard & app screenshots used in README
 │
 └── requirements.txt             # Python dependencies
 ```
@@ -252,7 +255,21 @@ The Streamlit dashboard (`dashboard.py`) auto-refreshes every 5 seconds and disp
 - 🔔 **Alert Banners** — Automatic warnings when attack traffic exceeds 40% (suspicious) or 70% (critical)
 ---
  
+## 🖼️ Screenshots
+ 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="assests/screenshots/Screenshot 2026-07-03 202812.png" width="280"/></td>
+      <td><img src="assests/screenshots/Screenshot 2026-07-03 202842.png" width="280"/></td>
+      <td><img src="assests/screenshots/Screenshot 2026-07-03 202856.png" width="280"/></td>
+    </tr>
+  </table>
+</div>
+---
+ 
 ## 🛠️ Tech Stack
+ 
  
 | Category | Technology |
 |---|---|
@@ -295,4 +312,3 @@ This project is intended for academic and research purposes. Feel free to fork a
 <div align="center">
   <p>Made with ❤️ by <strong>Rohan</strong></p>
 </div>
- 
